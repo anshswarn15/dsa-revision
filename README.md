@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anshswarn15/dsa-revision/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -25,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anshswarn15/dsa-revision/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anshswarn15/dsa-revision/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
