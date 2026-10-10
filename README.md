@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anshswarn15/dsa-revision/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -27,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anshswarn15/dsa-revision/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
