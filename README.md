@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshswarn15/dsa-revision/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/anshswarn15/dsa-revision/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Greedy
 |  |
 | ------- |
