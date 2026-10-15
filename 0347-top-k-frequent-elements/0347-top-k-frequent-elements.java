@@ -1,46 +1,29 @@
-import java.util.*;
-
 class Solution {
-    class Pair implements Comparable<Pair> {
-        int num;
-        int count;
+    public int[] topKFrequent(int[] nums, int k) {
+        List<Integer>[] bucket = new List[nums.length + 1];
+    Map<Integer, Integer> frequencyMap = new HashMap<>();
 
-        Pair(int num, int count) {
-            this.num = num;
-            this.count = count;
-        }
-
-        public int compareTo(Pair other) {
-            return Integer.compare(this.count, other.count);
-        }
+    for (int n : nums) {
+      frequencyMap.put(n, frequencyMap.getOrDefault(n, 0) + 1);
     }
 
-    public int[] topKFrequent(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+    for (int key : frequencyMap.keySet()) {
+      int frequency = frequencyMap.get(key);
+      if (bucket[frequency] == null) {
+        bucket[frequency] = new ArrayList<>();
+      }
+      bucket[frequency].add(key);
+    }
 
-        // Count frequencies
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+    List<Integer> topK = new ArrayList<>();
+    for (int pos = bucket.length - 1;pos >= 0 && topK.size() < k; pos--) {
+      if (bucket[pos] != null) {
+        topK.addAll(bucket[pos]);
+      }
+    }
 
-        // Create a Min-Heap
-        PriorityQueue<Pair> pq = new PriorityQueue<>();
+    return topK.stream().mapToInt(i -> i).toArray();
 
-        for (int num : map.keySet()) {
-            pq.add(new Pair(num, map.get(num)));
-
-            if (pq.size() > k) {
-                pq.poll();
-            }
-        }
-
-        // Extract K elements
-        int[] result = new int[k];
-
-        for (int i = 0; i < k; i++) {
-            result[i] = pq.poll().num;
-        }
-
-        return result;
+        
     }
 }
