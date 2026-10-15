@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshswarn15/dsa-revision/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anshswarn15/dsa-revision/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anshswarn15/dsa-revision/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshswarn15/dsa-revision/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -38,10 +41,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
