@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshswarn15/dsa-revision/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anshswarn15/dsa-revision/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/anshswarn15/dsa-revision/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshswarn15/dsa-revision/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anshswarn15/dsa-revision/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/anshswarn15/dsa-revision/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/anshswarn15/dsa-revision/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anshswarn15/dsa-revision/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
