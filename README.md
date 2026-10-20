@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anshswarn15/dsa-revision/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/anshswarn15/dsa-revision/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/anshswarn15/dsa-revision/tree/master/0560-subarray-sum-equals-k) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anshswarn15/dsa-revision/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/anshswarn15/dsa-revision/tree/master/0560-subarray-sum-equals-k) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Sorting
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshswarn15/dsa-revision/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anshswarn15/dsa-revision/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
