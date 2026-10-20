@@ -3,46 +3,30 @@ import java.util.*;
 class Solution {
     public int longestConsecutive(int[] nums) {
 
-        int longestLength = 0;
+       int longestSeq = 0 ;
+       Map<Integer, Boolean> exploredmap = new HashMap<>();
+       for(int num: nums){
+        exploredmap.put(num,Boolean.FALSE);
+       }
 
-        Map<Integer, Boolean> exploredMap = new HashMap<>();
-
-        // Step 1: Store all numbers as unexplored
-        for (int num : nums) {
-            exploredMap.put(num, Boolean.FALSE);
+       for(int num : nums){
+        int currentSeq = 1;
+        int nextnum = num +1 ; 
+        while(exploredmap.containsKey(nextnum) && exploredmap.get(nextnum)==false){
+            currentSeq ++;
+            exploredmap.put(nextnum, Boolean.TRUE);
+            nextnum++;
         }
-
-        // Step 2: Explore consecutive numbers
-        for (int num : nums) {
-
-            int currentLength = 1;
-
-            // Check forward direction
-            int nextNum = num + 1;
-
-            while (exploredMap.containsKey(nextNum)
-                    && exploredMap.get(nextNum) == false) {
-
-                currentLength++;
-                exploredMap.put(nextNum, Boolean.TRUE);
-                nextNum++;
-            }
-
-            // Check reverse direction
-            int prevNum = num - 1;
-
-            while (exploredMap.containsKey(prevNum)
-                    && !exploredMap.get(prevNum)) {
-
-                currentLength++;
-                exploredMap.put(prevNum, Boolean.TRUE);
-                prevNum--;
-            }
-
-            // Update the longest sequence length
-            longestLength = Math.max(longestLength, currentLength);
+        nextnum = num -1 ;
+        while(exploredmap.containsKey(nextnum) && exploredmap.get(nextnum)==false){
+            currentSeq ++;
+            exploredmap.put(nextnum, Boolean.TRUE);
+            nextnum--;
         }
+        longestSeq = Math.max(longestSeq,currentSeq );
 
-        return longestLength;
+       }
+       return longestSeq;
+
     }
 }
