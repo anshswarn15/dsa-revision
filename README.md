@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/anshswarn15/dsa-revision/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/anshswarn15/dsa-revision/tree/master/0560-subarray-sum-equals-k) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/anshswarn15/dsa-revision/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anshswarn15/dsa-revision/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/anshswarn15/dsa-revision/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/anshswarn15/dsa-revision/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/anshswarn15/dsa-revision/tree/master/0409-longest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anshswarn15/dsa-revision/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anshswarn15/dsa-revision/tree/master/0287-find-the-duplicate-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anshswarn15/dsa-revision/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -107,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/anshswarn15/dsa-revision/tree/master/0523-continuous-subarray-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anshswarn15/dsa-revision/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anshswarn15/dsa-revision/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anshswarn15/dsa-revision/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
