@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshswarn15/dsa-revision/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshswarn15/dsa-revision/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anshswarn15/dsa-revision/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/anshswarn15/dsa-revision/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/anshswarn15/dsa-revision/tree/master/0205-isomorphic-strings) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshswarn15/dsa-revision/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anshswarn15/dsa-revision/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/anshswarn15/dsa-revision/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshswarn15/dsa-revision/tree/master/0242-valid-anagram) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anshswarn15/dsa-revision/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshswarn15/dsa-revision/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
